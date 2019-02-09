@@ -38,7 +38,7 @@ nav-menu: true
 				</header>
 				<p>Sigma Phi Delta was founded on April 11, 1924 at University of Southern California in Los Angeles, California. Presently, this Fraternity now recognizes 36 chapters internationally, with colonization still underway.</p>
 				<ul class="actions">
-					<li><a href="http://www.sigmaphidelta.org/s/1247/aff_1_interior.aspx?sid=1247&gid=1&pgid=404" class="button">Learn more</a></li>
+					<li><a href="https://sigmaphidelta.com/" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
