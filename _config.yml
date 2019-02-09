@@ -1,0 +1,36 @@
+# site settings
+title: ΣΦΔ | Sigma Phi Delta
+subtitle: Beta-Nu Chapter
+email: webmaster.spd.calpoly@gmail.com
+description: 'THE PREMIER INTERNATIONAL FRATERNITY FOR ENGINEERS | Beta-Nu Chapter, Cal Poly SLO'
+baseurl: # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: SPD
+street_address: Beta Nu Chapter | Cal Poly SLO
+city: San Luis Obispo
+state: CA
+zip_code: 
+country: United States of America
+phone: 
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 4
+
+# social settings
+500px_url:
+facebook_url: https://www.facebook.com/spdslo/
+github_url:
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://instagram.com/spd_slo?utm_source=ig_profile_share&igshid=1dap0iwjl5ix3
+linkedin_url: 
+pinterest_url:
+slack_url:
+twitter_url: 
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
