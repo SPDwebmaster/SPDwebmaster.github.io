@@ -166,7 +166,6 @@ nav-menu: true
                     <li>Matt Hoertig</li>
                     <li>Liam Nolan</li>
                     <li>Andrew Puleo</li>
-                    <li>Mark Smeets</li>
                     <li>Sid Sharma</li>
                     <li>Johnlam Tran</li>
                     <li>Jake Worden</li>
