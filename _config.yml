@@ -1,7 +1,7 @@
 # site settings
 title: ΣΦΔ | Sigma Phi Delta
 subtitle: Beta-Nu Chapter
-email: webmaster.spd.calpoly@gmail.com
+email: spd.calpoly@gmail.com
 description: 'THE PREMIER INTERNATIONAL FRATERNITY FOR ENGINEERS | Beta-Nu Chapter, Cal Poly SLO'
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
