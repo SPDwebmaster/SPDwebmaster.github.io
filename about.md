@@ -2,7 +2,7 @@
 title: About Us
 layout: about
 description: 'The Sigma Phi Delta Fraternity, Beta-Nu Chapter'
-image: assets/images/img/IMG_2744.jpg
+image: assets/images/img/PumpkinPatch.jpg
 nav-menu: true
 ---
 
@@ -155,7 +155,6 @@ nav-menu: true
                     <li>Noah Parker</li>
                     <li>Josh Giacone</li>
                     <li>Matthew Malonzo</li>
-                    <li>Timothy Gorer</li>
                     <li>Aniketh Bhat</li>
 				</ul>
 			</div>

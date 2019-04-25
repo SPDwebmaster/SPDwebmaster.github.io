@@ -2,7 +2,7 @@
 layout: page
 title: Recruitment
 description: Interested in becoming a member of SPD? Learn more here.
-image: assets/images/img/DSC_0198.jpg
+image: assets/images/img/Valentines2.jpg
 nav-menu: true
 ---
 
@@ -20,7 +20,7 @@ nav-menu: true
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="assets/images/img/theta.JPG" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/img/beach2.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/img/Valentines1.jpg" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="assets/images/img/DSC_0294.jpg" alt="" /></span></div>
 	</div>
 </div>

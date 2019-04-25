@@ -2,7 +2,7 @@
 layout: page
 title: Contact Us
 description: Feel free to reach out to us here.
-image: assets/images/img/DSC_1218.jpg
+image: assets/images/img/beach.jpg
 nav-menu: true
 ---
 
@@ -30,47 +30,47 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>Chief Engineer</td>
-				<td>Karson Slocum</td>
+				<td>Sean Reece</td>
 				<td>chief.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Vice Chief Engineer</td>
-				<td>Jay Ullrich</td>
+				<td>Jack Ellison</td>
 				<td>vicechief.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Business Manager</td>
-				<td>Gabe Levy</td>
+				<td>Austin Mooney</td>
 				<td>business.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Secretary</td>
-				<td>Andrew Puleo</td>
+				<td>Blake Thomas</td>
 				<td>secretary.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Historian</td>
-				<td>Tim Gorer</td>
+				<td>Sujit Madiraju</td>
 				<td>historian.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Chaplain</td>
-				<td>Blake Thomas</td>
+				<td>Devon Subel</td>
 				<td>chaplain.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Pledge Master</td>
-				<td>Liam Nolan</td>
+				<td>Joey DeLuca</td>
 				<td>pledge.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Guide</td>
-				<td>Johnlam Tran</td>
+				<td>Eric Babajanian</td>
 				<td>guide.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Recruitment Chairman</td>
-				<td>Devon Subel</td>
+				<td>Ryan Powell</td>
 				<td>recruitment.spd.calpoly@gmail.com</td>
 			</tr>
 		</tbody>
@@ -91,52 +91,52 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>Pledge Board Chairman</td>
-				<td>Jack Ellison</td>
+				<td>Jonathan Bergum</td>
 				<td>pbc.spd.calpoly@gmail.com</td>
 				</tr>
 				<tr>
 				<td>Social Chairman</td>
-				<td>Ryan Powell</td>
+				<td>Riley Mete</td>
 				<td>social.spd.calpoly@gmail.com</td>
 				</tr>
 				<tr>
 				<td>Athletic Chairman</td>
-				<td>Anand Rajiv</td>
+				<td>Mike Kieran</td>
 				<td>athletic.spd.calpoly@gmail.com</td>
 				</tr>
 				<tr>
 				<td>Expansion Chairman</td>
-				<td>Sean Reece</td>
+				<td>Michael Georgariou III</td>
 				<td>expansion.spd.calpoly@gmail.com</td>
 				</tr>
 				<tr>
 				<td>Academic Chairman</td>
-				<td>Jake Worden</td>
+				<td>Max Allred</td>
 				<td>academic.spd.calpoly@gmail.com</td>
 				</tr>
 				<tr>
 				<td>Sergeant-At-Arms</td>
-				<td>Aniketh Bhat</td>
+				<td>Gabe Levy</td>
 				<td>sergeant.spd.calpoly@gmail.com</td>
 				</tr>
 				<tr>
 				<td>Brotherhood Chairman</td>
-				<td>Austin Mooney</td>
+				<td>Jake Worden</td>
 				<td>brotherhood.spd.calpoly@gmail.com</td>
 				</tr>
 				<tr>
 				<td>Philanthropy Chairman</td>
-				<td>Beau Bikakis</td>
+				<td>Corey Agena</td>
 				<td>philanthropy.spd.calpoly@gmail.com</td>
 				</tr>
 				<tr>
 				<td>Professional Chairman</td>
-				<td>James Foster</td>
+				<td>Matthew Malonzo</td>
 				<td>professional.spd.calpoly@gmail.com</td>
 				</tr>
 				<tr>
 				<td>Webmaster</td>
-				<td>Sujit Madiraju</td>
+				<td>Carter Cromer</td>
 				<td>webmaster.spd.calpoly@gmail.com</td>
 				</tr>
 		</tbody>
