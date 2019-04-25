@@ -193,6 +193,18 @@ nav-menu: true
                     <li>Blake Thomas</li>
 				</ul>
 			</div>
+			<div class="4u 12u$(small)">
+				<h3>Kappa Class</h3>
+				<ul>
+					<li>Corey Agena</li>
+					<li>Max Allred</li>
+					<li>Benjamin Don</li>
+                    <li>Michael Georgariou III</li>
+                    <li>Mike Kieran</li>
+                    <li>Riley Mete</li>
+                    <li>Tanmay Vegunta</li>
+				</ul>
+			</div>
 		</div>
 	</div>
 </section>
