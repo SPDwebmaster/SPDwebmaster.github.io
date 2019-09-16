@@ -39,8 +39,8 @@ nav-menu: true
 		<h3>Tuesday 9/24: Tech Talks at the Castle</h3>
 		<ul>
 			<li>Time: 6pm</li>
-			<li>Location: Mustang Lanes </li>
-			<li>Meet at the PAC at 6pm and we will take you to our Castle, AKA our frat house. You'll get to see some cool shit</li>
+			<li>Location: Meet at the PAC for rides </li>
+			<li>Hosted at the Castle, AKA our frat house. You'll get to learn about what brothers are working on.</li>
 		</ul>
 	</div>
 	<div>
@@ -48,7 +48,7 @@ nav-menu: true
 		<ul>
 			<li>Time: 6pm</li>
 			<li>Location: University Union</li>
-			<li>Free bowling! We'll rent out a bunch of lanes and you can show us what you got</li>
+			<li>Free bowling! We'll rent out a bunch of lanes so you can show us what you got.</li>
 		</ul>
 	</div>
 	<div>
@@ -56,7 +56,7 @@ nav-menu: true
 		<ul>
 			<li>Time: 6pm</li>
 			<li>Location: 5 minute walk from the freshman dorms, 2071 Hope St</li>
-			<li>Smash Bros, cup pong, and pizza at our house right outside Cal Poly. This is your final chance to meet some brothers and get invited to the weekend events</li>
+			<li>Smash Bros, cup pong, and pizza at a house right outside Cal Poly. This is your final chance to meet some brothers and get invited to the weekend events</li>
 		</ul>
 	</div>
 	<div>
@@ -65,7 +65,7 @@ nav-menu: true
 			<li>Show up to as many previous rush events as you can to be invited to these later events. More info will be released as you are invited.</li>
 		</ul>
 	</div>
-	<p>Please direct any questions to Recruitment Chairman Ryan Powell: recruitment.spd.calpoly@gmail.com</p>
+	<p><b>Please direct any questions to Recruitment Chairman Ryan Powell: recruitment.spd.calpoly@gmail.com</b></p>
 </div>
 
 
