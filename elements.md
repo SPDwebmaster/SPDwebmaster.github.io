@@ -32,37 +32,37 @@ nav-menu: true
 		<ul>
 			<li>Time: 6pm</li>
 			<li>Location: Sierra Madre</li>
-			<li>Come kick off Rush Week at our barbeque! This is a very laid back event, where you can grab some free food and learn a little more about SPD.</li>
+			<li>Begin Rush Week with burgers and dogs at the Sierra Madre Barbeque. This is an opportunity to learn all about Sigma Phi Delta and see what being a brother is all about.</li>
 		</ul>
 	</div>
 	<div>
-		<h3>Tuesday 9/24: Tech Talks at the Castle</h3>
-		<ul>
-			<li>Time: 6pm</li>
-			<li>Location: Meet at the PAC for rides </li>
-			<li>Hosted at the Castle, AKA our frat house. You'll get to learn about what brothers are working on.</li>
-		</ul>
-	</div>
-	<div>
-		<h3>Wednesday 9/25: Bowling at Mustang Lanes</h3>
+		<h3>Tuesday 9/24: Bowling at Mustang Lanes</h3>
 		<ul>
 			<li>Time: 6pm</li>
 			<li>Location: University Union</li>
-			<li>Free bowling! We'll rent out a bunch of lanes so you can show us what you got.</li>
+			<li>Come to Mustang Lanes for some free bowling and pizza. Show us what you got!</li>
+		</ul>
+	</div>
+	<div>
+		<h3>Wednesday 9/25: Tech Talks at the Castle</h3>
+		<ul>
+			<li>Time: 6pm</li>
+			<li>Location: Meet at the PAC Circle for rides </li>
+			<li>The Castle is the symbol of our fraternity, as well as the name of our house. We will be presenting tech talks on various projects our brothers have been undertaking.</li>
 		</ul>
 	</div>
 	<div>
 		<h3>Thursday 9/26: Night at Hope Street</h3>
 		<ul>
 			<li>Time: 6pm</li>
-			<li>Location: 5 minute walk from the freshman dorms, 2071 Hope St</li>
-			<li>Smash Bros, cup pong, and pizza at a house right outside Cal Poly. This is your final chance to meet some brothers and get invited to the weekend events</li>
+			<li>Location: Meet at the PAC Circle for rides </li>
+			<li>Smash Bros, VR, and pizza at one of our sattelite houses. This is your final chance to meet some brothers and demonstrate your interest in the fraternity.</li>
 		</ul>
 	</div>
 	<div>
 		<h3>Friday and Saturday: Invite only events</h3>
 		<ul>
-			<li>Show up to as many previous rush events as you can to be invited to these later events. More info will be released as you are invited.</li>
+			<li>Rushees who have shown interest through participation in earlier rush event will be invited to these weekend events.</li>
 		</ul>
 	</div>
 	<p><b>Please direct any questions to Recruitment Chairman Ryan Powell: recruitment.spd.calpoly@gmail.com</b></p>
@@ -70,7 +70,7 @@ nav-menu: true
 
 
 <h2 id="content">Our Standards</h2>
-<p>We welcome men of all engineering majors to rush SPD. The Sigma Phi Delta Fraternity is historically known as a professional brotherhood of engineers. We hold professionalism and education among our highest priorities. All who wish to join must be studying either under the College of Engineering or an ABET accredited engineering major at Cal Poly and have a cumulative GPA no lower than a 2.7. This includes the following majors:
+<p>We welcome men of all engineering majors to rush SPD. The Sigma Phi Delta Fraternity is historically known as a professional brotherhood of engineers. We hold professionalism and education among our highest priorities. All who wish to join must be studying either under the College of Engineering or an ABET accredited engineering major at Cal Poly. This includes the following majors:
 </p>
 
 <div class="row">
