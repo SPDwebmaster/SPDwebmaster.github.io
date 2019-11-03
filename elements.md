@@ -25,6 +25,8 @@ nav-menu: true
 	</div>
 </div>
 
+<!--
+
 <h2>FALL RUSH 2019</h2>
 <div class="row">
 	<div>
@@ -65,6 +67,21 @@ nav-menu: true
 			<li>Rushees who have shown interest through participation in earlier rush event will be invited to these weekend events.</li>
 		</ul>
 	</div>
+	<p><b>Please direct any questions to Recruitment Chairman Ryan Powell: recruitment.spd.calpoly@gmail.com</b></p>
+</div>
+
+-->
+
+<h2>WINTER RUSH 2020</h2>
+<div class="row">
+	<div>
+		<h3>Winter rush events will be displayed here, stay tuned for the details</h3>
+		<ul>
+			<li>Time: Rush events will take place during the first or second week of Winter Quarter, with events usually starting at 6PM</li>
+			<li>Rush Week is your opportunity to learn all about Sigma Phi Delta and show your interest in joining</li>
+		</ul>
+	</div>
+	
 	<p><b>Please direct any questions to Recruitment Chairman Ryan Powell: recruitment.spd.calpoly@gmail.com</b></p>
 </div>
 
