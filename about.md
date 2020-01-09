@@ -205,6 +205,25 @@ nav-menu: true
                     <li>Tanmay Vegunta</li>
 				</ul>
 			</div>
+			<div class="4u 12u$(small)">
+				<h3>Lambda Class</h3>
+				<ul>
+					<li>Christian Silva</li>
+					<li>William Moffet</li>
+					<li>Vishesh Pithadiya</li>
+					<li>Grant Gallagher</li>
+                    <li>David Chen</li>
+                    <li>Dakota Hollingsworth</li>
+                    <li>Joshua Than</li>
+					<li>Jensen Lam</li>
+					<li>Jeffrey Wexler</li>
+					<li>Bryan Chau</li>
+					<li>Richard Ou</li>
+					<li>Andrew Noble</li>
+					<li>Ryan Coldiron</li>
+					<li>Sarbo Roy</li>
+				</ul>
+			</div>
 		</div>
 	</div>
 </section>
