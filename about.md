@@ -66,7 +66,7 @@ nav-menu: true
 		</header>
 		<div class="row">
 			<div class="4u 12u$(small)">
-				<h3>Founding Class</h3>
+				<h3>Founding Class (🏛️)</h3>
 				<ul>
 					<li>Austin Abernathy</li>
                     <li>Ryan Eakins</li>
