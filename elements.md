@@ -72,9 +72,9 @@ nav-menu: true
 
 -->
 
-<h2>WINTER RUSH 2020</h2>
+<h2>FALL RUSH 2020</h2>
 <div class="row">
-	<div>
+	<!-- <div>
 		<h3>Monday 1/13: Kickoff Barbecue</h3>
 		<ul>
 			<li>Time: 6pm</li>
@@ -111,7 +111,8 @@ nav-menu: true
 		<ul>
 			<li>Rushees who have shown interest through participation in earlier rush event will be invited to these weekend events.</li>
 		</ul>
-	</div>
+	</div> -->
+	<p><b>Rush will take place during Week 1 of school. Stay tuned for event details, and come meet the bros at club showcase!</b></p>
 	<p><b>Please direct any questions to Recruitment Chairman Ryan Powell: recruitment.spd.calpoly@gmail.com</b></p>
 </div>
 
