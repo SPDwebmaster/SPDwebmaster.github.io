@@ -31,7 +31,7 @@ nav-menu: true
 <!-- Temporary Rush 2021 -->
 <h2>WINTER RUSH 2021</h2>
 <h3>What is Rush?!</h3>
-	<h3><a href="https://youtu.be/5G0aAaHT058">WATCH THE RUSH VIDEO HERE</a></h3>
+	<h3><a style="color:blue;" href="https://youtu.be/5G0aAaHT058">WATCH THE RUSH VIDEO HERE</a></h3>
 	<h4>Rush week is a series of events we put on so you can learn more about Sigma Phi Delta. You don't have to come to every event! But the more you come to, the more interest you show in our organization.</h4>
 	<div class="row">
 			<div>
