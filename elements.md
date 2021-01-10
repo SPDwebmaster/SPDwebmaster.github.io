@@ -6,9 +6,7 @@ image: assets/images/img/Valentines2.jpg
 nav-menu: true
 ---
 
-{% raw %}
 <iframe width="420" height="315" src="http://www.youtube.com/embed/5G0aAaHT058" frameborder="0" allowfullscreen></iframe>
-{% endraw %}
 
 <!-- Main -->
 <div id="main" class="alt">
