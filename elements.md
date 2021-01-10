@@ -6,6 +6,10 @@ image: assets/images/img/Valentines2.jpg
 nav-menu: true
 ---
 
+{% raw %}
+<iframe width="420" height="315" src="http://www.youtube.com/embed/5G0aAaHT058" frameborder="0" allowfullscreen></iframe>
+{% endraw %}
+
 <!-- Main -->
 <div id="main" class="alt">
 
@@ -32,9 +36,6 @@ nav-menu: true
 <h2>WINTER RUSH 2021</h2>
 <h3>What is Rush?!</h3>
 	<h4>Rush week is a series of events we put on so you can learn more about Sigma Phi Delta. You don't have to come to every event! But the more you come to, the more interest you show in our organization.</h4>
-	{% raw %}
-	<iframe width="420" height="315" src="http://www.youtube.com/embed/5G0aAaHT058" frameborder="0" allowfullscreen></iframe>
-	{% endraw %}
 	<div class="row">
 			<div>
 				<h3>Monday 1/11: Intro Night! (Zoom)</h3>
