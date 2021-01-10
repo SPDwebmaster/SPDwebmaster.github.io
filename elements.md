@@ -32,6 +32,7 @@ nav-menu: true
 <h2>WINTER RUSH 2021</h2>
 <h3>What is Rush?!</h3>
 	<h4>Rush week is a series of events we put on so you can learn more about Sigma Phi Delta. You don't have to come to every event! But the more you come to, the more interest you show in our organization.</h4>
+	<iframe width="420" height="315" src="http://www.youtube.com/embed/5G0aAaHT058" frameborder="0" allowfullscreen></iframe>
 	<div class="row">
 			<div>
 				<h3>Monday 1/11: Intro Night! (Zoom)</h3>
@@ -50,21 +51,21 @@ nav-menu: true
 				</ul>
 			</div>
 			<div>
-				<h3>Wednesday 1/13: Virtual Game Night (Zoom)</h3>
-				<ul>
-					<li>Time: 6pm</li>
-					<a href="https://calpoly.zoom.us/j/2857559283">JOIN ZOOM HERE</a>
-					<li>Hop in the zoom to play some games and have some fun with the brotherhood</li>
-				</ul>
-			</div>
-			<div>
-				<h3>Thursday 1/14: Ted Talks from Brothers (Zoom)</h3>
+				<h3>Wednesday 1/13: Ted Talks from Brothers (Zoom)</h3>
 				<ul>
 					<li>Time: 6pm</li>
 					<a href="https://calpoly.zoom.us/j/2857559283">JOIN ZOOM HERE</a>
 					<li>As we are a professional engineering fraternity, we like to think some of us have some smart things to say. Some of our alumni are
 						even doing smart things in the real world! Come listen to our Ted Talks and learn about SPD's industry connections.
 					</li>
+				</ul>
+			</div>
+			<div>
+				<h3>Thursday 1/14: Trivia Night (Zoom)</h3>
+				<ul>
+					<li>Time: 6pm</li>
+					<a href="https://calpoly.zoom.us/j/2857559283">JOIN ZOOM HERE</a>
+					<li>Prove you're smart enough to join our fraternity. Just kidding, the trivia is just for fun... or is it a test? Probably not. Unless...?</li>
 				</ul>
 			</div>
 			<div>
