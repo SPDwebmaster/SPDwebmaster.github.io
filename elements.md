@@ -33,7 +33,8 @@ nav-menu: true
 <h3>What is Rush?!</h3>
 	<h4>Rush week is a series of events we put on so you can learn more about Sigma Phi Delta. You don't have to come to every event! But the more you come to, the more interest you show in our organization.</h4>
 	<h3><a target="_blank" style="color:orange; text-decoration: underline;" href="https://youtu.be/5G0aAaHT058">>>WATCH THE RUSH VIDEO HERE<<</a></h3>
-	<div class="row">
+	<h3>Event details for spring rush will be released soon</h3>
+	<!-- <div class="row">
 			<div>
 				<h3>Monday 1/11: Intro Night! (Zoom)</h3>
 				<ul>
@@ -75,7 +76,7 @@ nav-menu: true
 				</ul>
 			</div>
 			<p><b>Please direct any questions to Recruitment Chairman Jeffrey Wexler: recruitment.spd.calpoly@gmail.com or (925) 446-2865</b></p>
-		</div>
+		</div> -->
 
 <!-- Temporary Rush 2021 -->
 
