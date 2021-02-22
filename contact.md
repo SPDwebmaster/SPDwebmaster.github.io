@@ -39,6 +39,11 @@ nav-menu: true
 				<td>vicechief.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
+				<td>Diversity & Inclusion Chairman</td>
+				<td>Blake Thomas</td>
+				<td>business.spd.calpoly@gmail.com</td>
+			</tr>
+			<tr>
 				<td>Business Manager</td>
 				<td>Blake Thomas</td>
 				<td>business.spd.calpoly@gmail.com</td>
@@ -48,18 +53,6 @@ nav-menu: true
 				<td>Jaren Townsend</td>
 				<td>secretary.spd.calpoly@gmail.com</td>
 			</tr>
-			<!--
-			<tr>
-				<td>Historian</td>
-				<td>Sujit Madiraju</td>
-				<td>historian.spd.calpoly@gmail.com</td>
-			</tr>
-			<tr>
-				<td>Chaplain</td>
-				<td>Devon Subel</td>
-				<td>chaplain.spd.calpoly@gmail.com</td>
-			</tr>
-			-->
 			<tr>
 				<td>Pledge Master</td>
 				<td>Dakota Hollingsworth</td>
@@ -100,47 +93,47 @@ nav-menu: true
 				<td>Pledge Board Chairman</td>
 				<td>Will Moffat</td>
 				<td>pbc.spd.calpoly@gmail.com</td>
-				</tr>
-				<tr>
+			</tr>
+			<tr>
 				<td>Social Chairman</td>
 				<td>Michael Thomas Kieran</td>
 				<td>social.spd.calpoly@gmail.com</td>
-				</tr>
-				<tr>
+			</tr>
+			<tr>
 				<td>Athletic Chairman</td>
 				<td>David Chen</td>
 				<td>athletic.spd.calpoly@gmail.com</td>
-				</tr>
-				<tr>
+			</tr>
+			<tr>
 				<td>Expansion Chairman</td>
 				<td>Sam Jain</td>
 				<td>expansion.spd.calpoly@gmail.com</td>
-				</tr>
-				<tr>
+			</tr>
+			<tr>
 				<td>Academic Chairman</td>
 				<td>Riley Smith</td>
 				<td>academic.spd.calpoly@gmail.com</td>
-				</tr>
-				<tr>
+			</tr>
+			<tr>
 				<td>Brotherhood Chairman</td>
-				<td>Vishesh Pithadiya</td>
+				<td>Ryan Salazar</td>
 				<td>brotherhood.spd.calpoly@gmail.com</td>
-				</tr>
-				<tr>
+			</tr>
+			<tr>
 				<td>Philanthropy Chairman</td>
 				<td>Roger Zucchet</td>
 				<td>philanthropy.spd.calpoly@gmail.com</td>
-				</tr>
-				<tr>
+			</tr>
+			<tr>
 				<td>Professional Chairman</td>
-				<td>Srirag Vuppula</td>
+				<td>Maxwell Christy</td>
 				<td>professional.spd.calpoly@gmail.com</td>
-				</tr>
-				<tr>
+			</tr>
+			<tr>
 				<td>Webmaster</td>
-				<td>Nathan Scheinkman</td>
+				<td>Carter Cromer</td>
 				<td>webmaster.spd.calpoly@gmail.com</td>
-				</tr>
+			</tr>
 		</tbody>
 	</table>
 </div>
