@@ -224,6 +224,24 @@ nav-menu: true
 					<li>Sarbo Roy</li>
 				</ul>
 			</div>
+			<div class="4u 12u$(small)">
+				<h3>Mu Class (M)</h3>
+				<ul>
+					<li>Anirudh Divecha</li>
+					<li>Anuj Sanghvi</li>
+					<li>Christopher Edward</li>
+					<li>Jaren T Townsend</li>
+                    <li>Jonah Ng</li>
+                    <li>Matthew James Corley</li>
+                    <li>Max Magnus</li>
+					<li>Maxwell James Christy</li>
+					<li>Nathan Scheinkman</li>
+					<li>Roger Zucchet III</li>
+					<li>Ryan Michael Salazar</li>
+					<li>Samyak Jain</li>
+					<li>Srirag Vuppala</li>
+				</ul>
+			</div>
 		</div>
 	</div>
 </section>
