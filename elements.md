@@ -34,49 +34,49 @@ nav-menu: true
 	<h4>Rush week is a series of events we put on so you can learn more about Sigma Phi Delta. You don't have to come to every event! But the more you come to, the more interest you show in our organization.</h4>
 	<h3><a target="_blank" style="color:orange; text-decoration: underline;" href="https://youtu.be/5G0aAaHT058">>>WATCH THE RUSH VIDEO HERE<<</a></h3>
 	<h3>Event details for spring rush will be released soon</h3>
-	<!-- <div class="row">
-			<div>
-				<h3>Monday 1/11: Intro Night! (Zoom)</h3>
-				<ul>
-					<li>Time: 6pm</li>
-					<a href="https://calpoly.zoom.us/j/2857559283">JOIN ZOOM HERE</a>
-					<li>We're starting the week off easy! Hop in the zoom to learn a little more about SPD, ask questions, and meet some of the bros!</li>
-				</ul>
-			</div>
-			<div>
-				<h3>Tuesday 1/12: Among Us Night (Zoom)</h3>
-				<ul>
-					<li>Time: 6pm</li>
-					<a href="https://calpoly.zoom.us/j/2857559283">JOIN ZOOM HERE</a>
-					<li>You've probably never heard of it, but there's this game called Among Us where you... just kidding. Come play Among Us and get to know the group better</li>
-				</ul>
-			</div>
-			<div>
-				<h3>Wednesday 1/13: Ted Talks from Brothers (Zoom)</h3>
-				<ul>
-					<li>Time: 6pm</li>
-					<a href="https://calpoly.zoom.us/j/2857559283">JOIN ZOOM HERE</a>
-					<li>As we are a professional engineering fraternity, we like to think some of us have some smart things to say. Some of our alumni are
-						even doing smart things in the real world! Come listen to our Ted Talks and learn about SPD's industry connections.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<h3>Thursday 1/14: Trivia Night (Zoom)</h3>
-				<ul>
-					<li>Time: 6pm</li>
-					<a href="https://calpoly.zoom.us/j/2857559283">JOIN ZOOM HERE</a>
-					<li>Prove you're smart enough to join our fraternity. Just kidding, the trivia is just for fun... or is it a test? Probably not. Unless...?</li>
-				</ul>
-			</div>
-			<div>
-				<h3>Friday and Saturday: Invite only events</h3>
-				<ul>
-					<li>Rushees who have shown interest through participation in earlier rush event will be invited to these weekend events.</li>
-				</ul>
-			</div>
-			<p><b>Please direct any questions to Recruitment Chairman Jeffrey Wexler: recruitment.spd.calpoly@gmail.com or (925) 446-2865</b></p>
-		</div> -->
+	 <div class="row">
+		<div>
+			<h3>Monday 4/5: Intro Night! (Zoom)</h3>
+			<ul>
+				<li>Time: 6pm</li>
+				<a href="https://calpoly.zoom.us/j/2857559283">JOIN ZOOM HERE</a>
+				<li>We're starting the week off easy! Hop in the zoom to learn a little more about SPD, ask questions, and meet some of the bros!</li>
+			</ul>
+		</div>
+		<div>
+			<h3>Tuesday 4/6: Game Night (Zoom)</h3>
+			<ul>
+				<li>Time: 6pm</li>
+				<a href="https://calpoly.zoom.us/j/2857559283">JOIN ZOOM HERE</a>
+				<li>Come have some fun playing online games with the bros.</li>
+			</ul>
+		</div>
+		<div>
+			<h3>Wednesday 4/7: Ted Talks from Brothers (Zoom)</h3>
+			<ul>
+				<li>Time: 6pm</li>
+				<a href="https://calpoly.zoom.us/j/2857559283">JOIN ZOOM HERE</a>
+				<li>As we are a professional engineering fraternity, we like to think some of us have some smart things to say. Some of our alumni are
+					even doing smart things in the real world! Come listen to our Ted Talks and learn about SPD's industry connections.
+				</li>
+			</ul>
+		</div>
+		<div>
+			<h3>Thursday 4/8: Trivia Night (Zoom)</h3>
+			<ul>
+				<li>Time: 6pm</li>
+				<a href="https://calpoly.zoom.us/j/2857559283">JOIN ZOOM HERE</a>
+				<li>Prove you're smart enough to join our fraternity. Just kidding, the trivia is just for fun... or is it a test? Probably not. Unless...?</li>
+			</ul>
+		</div>
+		<div>
+			<h3>Friday and Saturday: Invite only events</h3>
+			<ul>
+				<li>Rushees who have shown interest through participation in earlier rush event will be invited to these weekend events.</li>
+			</ul>
+		</div>
+		<p><b>Please direct any questions to Recruitment Chairman Jeffrey Wexler: recruitment.spd.calpoly@gmail.com or (925) 446-2865</b></p>
+	</div>
 
 <!-- Temporary Rush 2021 -->
 

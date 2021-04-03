@@ -45,7 +45,7 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>Business Manager</td>
-				<td>Blake Thomas</td>
+				<td>Corey Agena</td>
 				<td>business.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
@@ -60,7 +60,7 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>Guide</td>
-				<td>Benjamin Don</td>
+				<td>Corey Agena</td>
 				<td>guide.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>

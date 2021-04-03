@@ -242,6 +242,18 @@ nav-menu: true
 					<li>Srirag Vuppala</li>
 				</ul>
 			</div>
+			<div class="4u 12u$(small)">
+				<h3>Nu Class (M)</h3>
+				<ul>
+					<li>Adam Westfall</li>
+					<li>Adrian Avila</li>
+					<li>Alexandre Vasquez</li>
+					<li>Caleb Nalley</li>
+                    <li>Evan Hall</li>
+                    <li>Joseph Thompson</li>
+                    <li>Kyle McGarrity</li>
+				</ul>
+			</div>
 		</div>
 	</div>
 </section>
