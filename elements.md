@@ -48,7 +48,7 @@ nav-menu: true
 			<ul>
 				<li>Time: 6pm</li>
 				<a href="https://calpoly.zoom.us/j/2857559283">JOIN ZOOM HERE</a>
-				<li>Come have some fun playing online games with the bros.</li>
+				<li>Come have fun with the bros playing games like skribbl.io, the totally-not-dead-meme-game Among Us, Jackbox, and more!</li>
 			</ul>
 		</div>
 		<div>
