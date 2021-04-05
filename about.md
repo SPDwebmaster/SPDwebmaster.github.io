@@ -243,7 +243,7 @@ nav-menu: true
 				</ul>
 			</div>
 			<div class="4u 12u$(small)">
-				<h3>Nu Class (M)</h3>
+				<h3>Nu Class (N)</h3>
 				<ul>
 					<li>Adam Westfall</li>
 					<li>Adrian Avila</li>
