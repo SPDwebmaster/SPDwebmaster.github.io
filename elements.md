@@ -28,7 +28,7 @@ nav-menu: true
 
 
 
-<!-- Temporary Rush 2021 -->
+<!-- Temporary Rush 2021
 <h2>SPRING RUSH 2021</h2>
 <h3>What is Rush?!</h3>
 	<h4>Rush week is a series of events we put on so you can learn more about Sigma Phi Delta. You don't have to come to every event! But the more you come to, the more interest you show in our organization.</h4>
@@ -77,8 +77,7 @@ nav-menu: true
 		</div>
 		<p><b>Please direct any questions to Recruitment Chairman Jeffrey Wexler: recruitment.spd.calpoly@gmail.com or (925) 446-2865</b></p>
 	</div>
-
-<!-- Temporary Rush 2021 -->
+Temporary Rush 2021 -->
 
 <h2 id="content">Our Standards</h2>
 <p>We welcome men of all engineering majors to rush SPD. The Sigma Phi Delta Fraternity is historically known as a professional brotherhood of engineers. We hold professionalism and education among our highest priorities. All who wish to join must be studying either under the College of Engineering or an ABET accredited engineering major at Cal Poly. This includes the following majors:
