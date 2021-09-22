@@ -30,47 +30,47 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>Chief Engineer</td>
-				<td>Michael Georgariou</td>
+				<td>Corey Agena</td>
 				<td>chief.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Vice Chief Engineer</td>
-				<td>Joseph DeLuca</td>
+				<td>Michael Kieran</td>
 				<td>vicechief.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Diversity & Inclusion Chairman</td>
-				<td>Blake Thomas</td>
+				<td>Anirudh Divecha</td>
 				<td>business.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Business Manager</td>
-				<td>Corey Agena</td>
+				<td>Jeffrey Wexler</td>
 				<td>business.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Secretary</td>
-				<td>Jaren Townsend</td>
+				<td>Evan Hall</td>
 				<td>secretary.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Pledge Master</td>
-				<td>Dakota Hollingsworth</td>
+				<td>Carter Cromer</td>
 				<td>pledge.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Guide</td>
-				<td>Corey Agena</td>
+				<td>Ryan Coldiron</td>
 				<td>guide.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Recruitment Chairman</td>
-				<td>Jeffrey Wexler</td>
+				<td>Jaren Townsend</td>
 				<td>recruitment.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Sergeant-At-Arms</td>
-				<td>Jensen Lam</td>
+				<td>Bryan Chau</td>
 				<td>sergeant.spd.calpoly@gmail.com</td>
 			</tr>
 		</tbody>
@@ -91,22 +91,22 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>Pledge Board Chairman</td>
-				<td>Will Moffat</td>
+				<td>Riley Smith</td>
 				<td>pbc.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Social Chairman</td>
-				<td>Michael Thomas Kieran</td>
+				<td>Evan Hall</td>
 				<td>social.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Athletic Chairman</td>
-				<td>David Chen</td>
+				<td>Adrian Avila</td>
 				<td>athletic.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Expansion Chairman</td>
-				<td>Sam Jain</td>
+				<td>Joaquin Lopez</td>
 				<td>expansion.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
@@ -116,7 +116,7 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>Brotherhood Chairman</td>
-				<td>Ryan Salazar</td>
+				<td>Keon Roohparvar & Adam Westfall</td>
 				<td>brotherhood.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
@@ -126,12 +126,12 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>Professional Chairman</td>
-				<td>Maxwell Christy</td>
+				<td>Vishesh Pithadiya</td>
 				<td>professional.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Webmaster</td>
-				<td>Carter Cromer</td>
+				<td>Srirag Vuppala</td>
 				<td>webmaster.spd.calpoly@gmail.com</td>
 			</tr>
 		</tbody>
