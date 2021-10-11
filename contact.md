@@ -50,7 +50,7 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>Secretary</td>
-				<td>Evan Hall</td>
+				<td>Caleb Nalley</td>
 				<td>secretary.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
@@ -111,7 +111,7 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>Academic Chairman</td>
-				<td>Riley Smith</td>
+				<td>Roger Zucchet</td>
 				<td>academic.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
@@ -121,7 +121,7 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>Philanthropy Chairman</td>
-				<td>Roger Zucchet</td>
+				<td>Alex Vasquez</td>
 				<td>philanthropy.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
@@ -137,6 +137,7 @@ nav-menu: true
 		</tbody>
 	</table>
 </div>
+
 <!-- Image -->
 <!--
 <h3>Image</h3>
