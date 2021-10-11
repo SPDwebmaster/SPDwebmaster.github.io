@@ -254,6 +254,18 @@ nav-menu: true
                     <li>Kyle McGarrity</li>
 				</ul>
 			</div>
+			<div class="4u 12u$(small)">
+				<h3>Xi Class (Ξ)</h3>
+				<ul>
+					<li>Andrew Hudak</li>
+					<li>Ethan Tan</li>
+					<li>Greg Perini</li>
+                    <li>Joaquin Lopez</li>
+					<li>San Varshney</li>
+				</ul>
+			</div>
+
+
 		</div>
 	</div>
 </section>
