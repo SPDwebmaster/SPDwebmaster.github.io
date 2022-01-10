@@ -32,7 +32,7 @@ nav-menu: true
 
                     <h3>What is Rush?!</h3>
                     
-                    <h4>Rush week is a series of events we put on so you can learn more about Sigma Phi Delta. Our next rush will be week 2 of Winter 2022. Stay tuned for event details!</h4>
+                    <h4>Rush week is a series of events we put on so you can learn more about Sigma Phi Delta. Our next rush will be week 3 of Winter 2022. Stay tuned for event details!</h4>
 <!-- 
                     <div class="row">
                         <div>
