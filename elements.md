@@ -25,7 +25,7 @@ nav-menu: true
 	</div>
 </div>
 
-<h2>WINTER RUSH 2022</h2>
+<!-- <h2>WINTER RUSH 2022</h2>
 
                     <h3>What is Rush?!</h3>
 
@@ -66,7 +66,7 @@ nav-menu: true
     			<li>recruitment.spd.calpoly@gmail.com</li>
     			<li>(858) 335-9029</li>
     	    	</ul>
-                    </div>
+                    </div> -->
 
 <h2 id="content">Our Standards</h2>
 <p>We welcome men of all engineering majors to rush SPD. The Sigma Phi Delta Fraternity is historically known as a professional brotherhood of engineers. We hold professionalism and education among our highest priorities. All who wish to join must be studying either under the College of Engineering or an ABET accredited engineering major at Cal Poly. This includes the following majors:
