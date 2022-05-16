@@ -264,6 +264,44 @@ nav-menu: true
 					<li>San Varshney</li>
 				</ul>
 			</div>
+			<div class="4u 12u$(small)">
+				<h3>Omicron Class (ο)</h3>
+				<ul>
+					<li>Arnav Banthia </li>
+					<li>Aiden Hall</li>
+					<li>Ashvir Singh</li>
+					<li>Benicio Cristofalo</li>
+					<li>Christopher Sheehan </li>
+					<li>Jake Romag</li>
+					<li>Jeremy Kozlowski</li>
+					<li>Jonathan Graves</li>
+					<li>Kaleb Branim</li>
+					<li>Lucas Fanelli</li>
+					<li>Luke Yium </li>
+					<li>Samuel Paul Christy</li>
+					<li>Scott Pramuk</li>
+					<li>Shashank Acharya</li>
+					<li>Yoel Nozar</li>
+				</ul>
+			</div>
+			<div class="4u 12u$(small)">
+				<h3>Pi Class (Π)</h3>
+				<ul>
+					<li>Alexis Gaxiola</li>
+					<li>Casey Avila</li>
+					<li>David Cho</li>
+					<li>Dorian Avila</li>
+					<li>Ian Feldman</li>
+					<li>James Lamkin</li>
+					<li>Owen Lassa</li>
+					<li>Ryan V Marangattu</li>
+					<li>Siddh Desai</li>
+				</ul>
+			</div>
+
+
+
+
 
 
 		</div>
