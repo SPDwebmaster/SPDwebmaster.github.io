@@ -25,7 +25,7 @@ nav-menu: true
 	</div>
 </div>
 
- <h2>FALL RUSH 2022</h2>
+    <h2>FALL RUSH 2022</h2>
     <h3>What is Rush?!</h3>
     <h4>Rush week is a series of events we put on so you can learn more about Sigma Phi Delta. Our next rush will be week 2 of Fall 2022. Stay tuned for event details!</h4>
     <div class="row">
