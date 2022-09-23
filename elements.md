@@ -32,7 +32,7 @@ nav-menu: true
         <div>
             <h3>Monday 9/26: BBQ</h3>
             <ul>
-                <li>Time: 6pm at ATL (BLDG: 007)</li>
+                <li>Time: 6pm at Dexter Lawn</li>
                 <li>Come get free Pizza, meet the bros, and learn more about Sigma Phi Delta.</li>
             </ul>
         </div>
