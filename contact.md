@@ -30,47 +30,47 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>Chief Engineer</td>
-				<td>Corey Agena</td>
+				<td>Jeffrey Wexler</td>
 				<td>chief.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Vice Chief Engineer</td>
-				<td>Michael Kieran</td>
+				<td>Jaren Townsend</td>
 				<td>vicechief.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Diversity & Inclusion Chairman</td>
-				<td>Anirudh Divecha</td>
+				<td>Vishesh Pithadiya</td>
 				<td>business.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Business Manager</td>
-				<td>Jeffrey Wexler</td>
+				<td>Luke Yuim</td>
 				<td>business.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Secretary</td>
-				<td>Caleb Nalley</td>
+				<td>Evan Hall</td>
 				<td>secretary.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Pledge Master</td>
-				<td>Carter Cromer</td>
+				<td>Will Moffat</td>
 				<td>pledge.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Guide</td>
-				<td>Ryan Coldiron</td>
+				<td>Owen Lassa</td>
 				<td>guide.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Recruitment Chairman</td>
-				<td>Jaren Townsend</td>
+				<td>Alexis Gaxiola & Owen Lassa</td>
 				<td>recruitment.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Sergeant-At-Arms</td>
-				<td>Bryan Chau</td>
+				<td>Adam Westfall</td>
 				<td>sergeant.spd.calpoly@gmail.com</td>
 			</tr>
 		</tbody>
@@ -91,47 +91,47 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>Pledge Board Chairman</td>
-				<td>Riley Smith</td>
+				<td>Ashvir Singh</td>
 				<td>pbc.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Social Chairman</td>
-				<td>Evan Hall</td>
+				<td>Siddh Desai</td>
 				<td>social.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Athletic Chairman</td>
-				<td>Adrian Avila</td>
+				<td>James Lamkin</td>
 				<td>athletic.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Expansion Chairman</td>
-				<td>Joaquin Lopez</td>
+				<td>Alex Vasquez</td>
 				<td>expansion.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Academic Chairman</td>
-				<td>Roger Zucchet</td>
+				<td>Ryan Marangattu</td>
 				<td>academic.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Brotherhood Chairman</td>
-				<td>Keon Roohparvar & Adam Westfall</td>
+				<td>Jeremy Kozlowski & Ian Feldman</td>
 				<td>brotherhood.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Philanthropy Chairman</td>
-				<td>Alex Vasquez</td>
+				<td>Aiden Hall</td>
 				<td>philanthropy.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Professional Chairman</td>
-				<td>Vishesh Pithadiya</td>
+				<td>Caleb Nalley</td>
 				<td>professional.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Webmaster</td>
-				<td>Srirag Vuppala</td>
+				<td>Casey Avila</td>
 				<td>webmaster.spd.calpoly@gmail.com</td>
 			</tr>
 		</tbody>
