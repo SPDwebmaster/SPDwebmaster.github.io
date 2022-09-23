@@ -4,7 +4,7 @@ subtitle: Beta-Nu Chapter
 email: spd.calpoly@gmail.com
 description: 'THE PREMIER INTERNATIONAL FRATERNITY FOR ENGINEERS | Beta-Nu Chapter, Cal Poly SLO'
 baseurl: # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: https://spdcalpoly.org # the base hostname & protocol for your site
 author: SPD
 street_address: Beta Nu Chapter | Cal Poly SLO
 city: San Luis Obispo
