@@ -27,7 +27,7 @@ nav-menu: true
 
     <h2>WINTER RUSH 2023</h2>
     <h3>What is Rush?!</h3>
-    <h4>Rush week is a series of events we put on so you can learn more about Sigma Phi Delta. Our next rush will be week 2 of Fall 2022. Stay tuned for event details!</h4>
+    <h4>Rush week is a series of events we put on so you can learn more about Sigma Phi Delta. Our next rush will be week 2 of Winter 2023. Stay tuned for event details!</h4>
     <div class="row">
         <div>
             <h3>Monday 1/16: BBQ @ Diablo Grilling Area</h3>
