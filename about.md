@@ -298,12 +298,29 @@ nav-menu: true
 					<li>Siddh Desai</li>
 				</ul>
 			</div>
-
-
-
-
-
-
+			<div class="4u 12u$(small)">
+				<h3>Rho Class (Ρ)</h3>
+				<ul>
+                    <li>Adrian Sanchez</li>
+                    <li>Brayden Noguchi</li>
+                    <li>Daniel Hudak</li>
+                    <li>Dylan Souttaphonh</li>
+                    <li>Dylan Walty</li>
+                    <li>Hunter Pinkstaff</li>
+                    <li>Ivan Nieto</li>
+                    <li>Jaskarn Singh</li>
+                    <li>Jason Tello</li>
+                    <li>Justin Koida</li>
+                    <li>Luis Gordillo</li>
+                    <li>Michael Drobeck</li>
+                    <li>Nicholas Ruybal</li>
+                    <li>Pratham Moktan</li>
+                    <li>Quinn Potter</li>
+                    <li>Sammy Paykel</li>
+                    <li>Tinh Nguyen</li>
+                    <li>Tyler Hamilton</li>
+				</ul>
+			</div>
 		</div>
 	</div>
 </section>
