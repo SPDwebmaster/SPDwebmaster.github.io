@@ -30,47 +30,47 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>Chief Engineer</td>
-				<td>Jeffrey Wexler</td>
+				<td>Siddh Desai</td>
 				<td>chief.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Vice Chief Engineer</td>
-				<td>Jaren Townsend</td>
+				<td>Luke Yium</td>
 				<td>vicechief.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Diversity & Inclusion Chairman</td>
-				<td>Vishesh Pithadiya</td>
+				<td>Sammy Paykel</td>
 				<td>business.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Business Manager</td>
-				<td>Luke Yuim</td>
+				<td>Alex Vaquez</td>
 				<td>business.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Secretary</td>
-				<td>Evan Hall</td>
+				<td>Aiden Hall</td>
 				<td>secretary.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Pledge Master</td>
-				<td>Will Moffat</td>
+				<td>Jonathan Graves</td>
 				<td>pledge.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Guide</td>
-				<td>Owen Lassa</td>
+				<td>Michael Drobeck</td>
 				<td>guide.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Recruitment Chairman</td>
-				<td>Alexis Gaxiola & Owen Lassa</td>
+				<td>Andrew Hudak & Dylan Walty</td>
 				<td>recruitment.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Sergeant-At-Arms</td>
-				<td>Adam Westfall</td>
+				<td>Owen Lassa</td>
 				<td>sergeant.spd.calpoly@gmail.com</td>
 			</tr>
 		</tbody>
@@ -91,47 +91,47 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>Pledge Board Chairman</td>
-				<td>Ashvir Singh</td>
+				<td>Ryan Marangattu</td>
 				<td>pbc.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Social Chairman</td>
-				<td>Siddh Desai</td>
+				<td>Arnav Banthia</td>
 				<td>social.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Athletic Chairman</td>
-				<td>James Lamkin</td>
+				<td>Austin Voong</td>
 				<td>athletic.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
-				<td>Expansion Chairman</td>
-				<td>Alex Vasquez</td>
+				<td>Outreach Chairman</td>
+				<td>Austin Voong</td>
 				<td>expansion.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Academic Chairman</td>
-				<td>Ryan Marangattu</td>
+				<td>Ethan Trantalis</td>
 				<td>academic.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Brotherhood Chairman</td>
-				<td>Jeremy Kozlowski & Ian Feldman</td>
+				<td>Protham Mokthan</td>
 				<td>brotherhood.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Philanthropy Chairman</td>
-				<td>Aiden Hall</td>
+				<td>Ivan Nieto</td>
 				<td>philanthropy.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Professional Chairman</td>
-				<td>Caleb Nalley</td>
+				<td>James Lamkin</td>
 				<td>professional.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Webmaster</td>
-				<td>Casey Avila</td>
+				<td>Ethan Trantalis</td>
 				<td>webmaster.spd.calpoly@gmail.com</td>
 			</tr>
 		</tbody>
