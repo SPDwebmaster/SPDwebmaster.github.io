@@ -322,7 +322,7 @@ nav-menu: true
 				</ul>
 			</div>
 			<div class="4u 12u$(small)">
-				<h3>Sigma Class (Ρ)</h3>
+				<h3>Sigma Class (Σ)</h3>
 				<ul>
 					<li>Antonio Chen</li>
 					<li>Arun Prasad Srinivasan Manoharan</li>
