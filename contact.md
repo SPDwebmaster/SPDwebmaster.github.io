@@ -55,7 +55,7 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>Pledge Master</td>
-				<td>Jonathan Graves</td>
+				<td>Ashvir Singh</td>
 				<td>pledge.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>

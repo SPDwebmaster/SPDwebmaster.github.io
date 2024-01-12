@@ -338,6 +338,27 @@ nav-menu: true
                     <li>Sid Meka</li> 
 				</ul>
 			</div>	
+			<div class="4u 12u$(small)">
+				<h3>Tau Class (Τ)</h3>
+				<ul>
+                    <li>Anthony Ballesteros</li>
+                    <li>Beck Langstraat</li>
+                    <li>Carlo Delanni</li>
+                    <li>Ethan Rezentes</li>
+                    <li>Evan Cao</li>
+                    <li>Finn McSherry</li>
+                    <li>Jerry Tapia</li>
+					<li>Luis Garcia</li>
+                    <li>Mateo Magana</li>
+                    <li>Matthew McClelland</li>
+                    <li>Nick Carboni</li>
+                    <li>Sahith Karra</li>
+                    <li>Sriram Raghu</li>
+                    <li>Vasanth Pugalenthi</li>
+                    <li>Will Baker</li>
+                    <li>Zohair Ahmed</li>
+				</ul>
+			</div>
 		</div>
 	</div>
 </section>

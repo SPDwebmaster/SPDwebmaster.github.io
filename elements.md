@@ -30,28 +30,28 @@ nav-menu: true
 <h4>Rush week is a series of events we put on so you can learn more about Sigma Phi Delta. Our next rush will be week 2 of Fall 2023. Stay tuned for event details!</h4>
 <div class="row">
     <div>
-        <h3>Monday 10/02: BBQ @ Diablo Grilling Area</h3>
+        <h3>Monday 1/15: BBQ @ Diablo Grilling Area</h3>
         <ul>
             <li>Time: 6 - 8pm</li>
             <li>Come get free BBQ, meet the bros, and learn more about Sigma Phi Delta.</li>
         </ul>
     </div>
     <div>
-        <h3>Tuesday 10/03: Game Night @ The Island (Meet @ the PAC for rides)</h3>
+        <h3>Tuesday 1/16: Game Night @ The Island (Meet @ the PAC for rides)</h3>
         <ul>
             <li>Time: 6 - 8pm, meet at PAC</li>
             <li>Come play games, hang out with us, and have fun at one of our fraternity homes.</li>
         </ul>
     </div>
     <div>
-        <h3>Wednesday 10/04: Bowling @ Mustang Lanes</h3>
+        <h3>Wednesday 1/17: Bowling @ Mustang Lanes</h3>
         <ul>
             <li>Time: 6 - 8pm</li>
             <li>Play bowling with us for free! Show off your skills or lack of skills, we don't judge.</li>
         </ul>
     </div>
     <div>
-        <h3>Thursday 10/05: Professional Night @ The Castle (Meet @ the PAC for rides)</h3>
+        <h3>Thursday 1/18: Professional Night @ The Castle (Meet @ the PAC for rides)</h3>
         <ul>
             <li>Time: 6 - 8pm, meet at PAC</li>
             <li>As we are a professional engineering fraternity, we have many brothers and alumni working in industry. This night is a career fair style professional day to share what we've learned and how we can help you in your professional career.</li>
