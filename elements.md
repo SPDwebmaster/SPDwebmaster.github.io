@@ -2,7 +2,7 @@
 layout: page
 title: Recruitment
 description: Interested in becoming a member of SPD? Learn more here.
-image: assets/images/img/Valentines2.jpg
+image: assets/images/img_2023/formal_one.jpg
 nav-menu: true
 ---
 
@@ -19,15 +19,15 @@ nav-menu: true
 <!-- Content -->
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="assets/images/img/theta.JPG" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/img/Valentines1.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/img/DSC_0294.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/img_2023/formal_two.JPG" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/img_2023/alumni_two.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/images/img_2023/formal_five.jpg" alt="" /></span></div>
 	</div>
 </div>
 
-<h2>FALL RUSH 2023</h2>
+<h2>Winter RUSH 2024</h2>
 <h3>What is Rush?!</h3>
-<h4>Rush week is a series of events we put on so you can learn more about Sigma Phi Delta. Our next rush will be week 2 of Fall 2023. Stay tuned for event details!</h4>
+<h4>Rush week is a series of events we put on so you can learn more about Sigma Phi Delta. Our next rush will be week 2 of Winter 2024. Stay tuned for event details!</h4>
 <div class="row">
     <div>
         <h3>Monday 1/15: BBQ @ Diablo Grilling Area</h3>

@@ -2,7 +2,7 @@
 title: About Us
 layout: about
 description: 'The Sigma Phi Delta Fraternity, Beta-Nu Chapter'
-image: assets/images/img/PumpkinPatch.jpg
+image: assets/images/img_2023/camping_two.JPG
 nav-menu: true
 ---
 
@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Declaration of Principles and Objects</h2>
 		</header>
-		<p><span class="image right"><img src="assets/images/img/fun_run.jpg" alt="" /></span>"From time to time the Fraternity, of Greek, system is called upon to set forth the principles for which it stands. So far, it has been able to offer a satisfactory explanation for its existence. As a part of this system - as a Fraternity of Engineers we insist that whatever our own superficial peculiarities, we exist for a purpose.
+		<p><span class="image right"><img src="assets/images/img_2023/camping_one.JPG" alt="" /></span>"From time to time the Fraternity, of Greek, system is called upon to set forth the principles for which it stands. So far, it has been able to offer a satisfactory explanation for its existence. As a part of this system - as a Fraternity of Engineers we insist that whatever our own superficial peculiarities, we exist for a purpose.
 
 		We stand steadfast and firm in our belief that we serve as a necessary adjunct to our Colleges and Universities in the training of young engineers. Our Constitution states, without equivocation, that the Object of the Fraternity shall be to promote the advancement of the Engineering Profession; to foster the advancement of Engineering Education; to instill a greater spirit of cooperation among Engineering Students and Organizations; to inculcate in its members the highest ideals of virtuous manhood, good Citizenship, obedience to Law, and Brotherhood; and to encourage excellence in scholarship. These objects we endeavor to fulfill in our Laws, in our Ritual, in our conduct and in our relations with others.
 
@@ -29,7 +29,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a class="image">
-			<img src="assets/images/img/crest_large.png" alt="" data-position="top center" />
+			<img src="assets/images/img_2022/crest_large.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -45,7 +45,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a class="image">
-			<img src="assets/images/img/spd_slo.jpg" alt="" data-position="center center" />
+			<img src="assets/images/img_2022/spd_slo.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">

@@ -2,7 +2,7 @@
 layout: page
 title: Contact Us
 description: Feel free to reach out to us here.
-image: assets/images/img/beach.jpg
+image: assets/images/img_2023/sendoff_one.jpg
 nav-menu: true
 ---
 
