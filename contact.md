@@ -91,7 +91,7 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>Pledge Board Chairman</td>
-				<td>Ryan Marangattu</td>
+				<td>Nicholas Ruybal</td>
 				<td>pbc.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
