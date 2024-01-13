@@ -19,9 +19,9 @@ nav-menu: true
 <!-- Content -->
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="assets/images/img_2023/recruitment_one.JPG" alt="" /></span></div>
-		<!--<div class="4u"><span class="image fit"><img src="assets/images/img_2023/alumni_two.jpg" alt="" -->/></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/img_2023/alumni_one.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/img_2023/recruitment_one.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/img_2023/alumni_two.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/images/img_2023/alumni_one.JPG" alt="" /></span></div>
 	</div>
 </div>
 
