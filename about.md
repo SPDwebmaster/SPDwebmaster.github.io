@@ -359,6 +359,19 @@ nav-menu: true
                     <li>Zohair Ahmed</li>
 				</ul>
 			</div>
+			<div class="4u 12u$(small)">
+				<h3>Upsilon Class (Y)</h3>
+				<ul>
+                    <li>Ben Nash</li>
+                    <li>Evan Claar</li>
+                    <li>Karthik Balaji</li>
+                    <li>Oleks Gorpynich</li>
+                    <li>Dhruv Patel</li>
+                    <li>Eric Dat Nguyen</li>
+                    <li>Chancellor Kim</li>
+					<li>Chris Arango</li>
+				</ul>
+			</div>
 		</div>
 	</div>
 </section>

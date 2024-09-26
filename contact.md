@@ -30,27 +30,27 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>Chief Engineer</td>
-				<td>Siddh Desai</td>
+				<td>Dylan Walty</td>
 				<td>chief.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Vice Chief Engineer</td>
-				<td>Luke Yium</td>
+				<td>Austin Voong</td>
 				<td>vicechief.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Diversity & Inclusion Chairman</td>
-				<td>Sammy Paykel</td>
+				<td>Joaquin Arredondo</td>
 				<td>business.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Business Manager</td>
-				<td>Alex Vaquez</td>
+				<td>Ian Feldman</td>
 				<td>business.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Secretary</td>
-				<td>Aiden Hall</td>
+				<td>Ethan Trantalis</td>
 				<td>secretary.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
@@ -60,17 +60,17 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>Guide</td>
-				<td>Michael Drobeck</td>
+				<td>Anthony Ballesteros</td>
 				<td>guide.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Recruitment Chairman</td>
-				<td>Andrew Hudak & Dylan Walty</td>
+				<td>Ivan Nieto & Finn McSherry</td>
 				<td>recruitment.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Sergeant-At-Arms</td>
-				<td>Owen Lassa</td>
+				<td>Adrian Sanchez</td>
 				<td>sergeant.spd.calpoly@gmail.com</td>
 			</tr>
 		</tbody>
