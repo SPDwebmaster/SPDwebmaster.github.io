@@ -91,47 +91,47 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>Pledge Board Chairman</td>
-				<td>Nicholas Ruybal</td>
+				<td>Siddh Desai</td>
 				<td>pbc.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Social Chairman</td>
-				<td>Arnav Banthia</td>
+				<td>Nicholas Ruybal</td>
 				<td>social.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Athletic Chairman</td>
-				<td>Austin Voong</td>
+				<td>Mateo Mangana</td>
 				<td>athletic.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Outreach Chairman</td>
-				<td>Austin Voong</td>
+				<td>Benny Tam</td>
 				<td>expansion.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Academic Chairman</td>
-				<td>Ethan Trantalis</td>
+				<td>Zohair Ahmed</td>
 				<td>academic.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Brotherhood Chairman</td>
-				<td>Protham Mokthan</td>
+				<td>Ethan Rezentes</td>
 				<td>brotherhood.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Philanthropy Chairman</td>
-				<td>Ivan Nieto</td>
+				<td>Eric Dat Nguyen</td>
 				<td>philanthropy.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Professional Chairman</td>
-				<td>James Lamkin</td>
+				<td>Luke Yium</td>
 				<td>professional.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Webmaster</td>
-				<td>Ethan Trantalis</td>
+				<td>Antonio Chen</td>
 				<td>webmaster.spd.calpoly@gmail.com</td>
 			</tr>
 		</tbody>
