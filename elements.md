@@ -44,7 +44,7 @@ nav-menu: true
         </ul>
     </div>
     <div>
-        <h3>Tuesday 10/1: Bowling @ Mustang Lanes</h3>
+        <h3>Tuesday 10/1: Sports Day @ Mott Volleyball Courts</h3>
         <ul>
             <li>Time: 6 - 8pm</li>
             <li>Play bowling with us for free! Show off your skills or lack of skills, we don't judge.</li>
@@ -63,11 +63,11 @@ nav-menu: true
             <li>We will be inviting rushees back to go through the next stages of our process.</li>
         </ul>
     </div>
-    <p><b>Please direct any questions to Recruitment Chairman Andrew Hudak</b></p>
+    <p><b>Please direct any questions to Recruitment Chairman Ivan Nieto</b></p>
     <br>
     <ul>
         <li>recruitment.spd.calpoly@gmail.com</li>
-        <li>(805) 217-0478</li>
+        <li>(720) 878-5731</li>
     </ul>
 </div>
 

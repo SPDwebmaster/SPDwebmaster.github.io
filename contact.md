@@ -54,11 +54,6 @@ nav-menu: true
 				<td>secretary.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
-				<td>Pledge Master</td>
-				<td>Ashvir Singh</td>
-				<td>pledge.spd.calpoly@gmail.com</td>
-			</tr>
-			<tr>
 				<td>Guide</td>
 				<td>Anthony Ballesteros</td>
 				<td>guide.spd.calpoly@gmail.com</td>
