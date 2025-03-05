@@ -50,7 +50,7 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>Secretary</td>
-				<td>Ethan Trantalis</td>
+				<td> </td>
 				<td>secretary.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>

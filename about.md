@@ -330,7 +330,6 @@ nav-menu: true
 					<li>Benny Tam</li>
 					<li>Daniel Gates</li>
 					<li>Edgar Rojas</li>
-                    <li>Ethan Trantalis</li>
 					<li>Joaquin Arredondo</li>
 					<li>Koen Graue</li>
 					<li>Mayur Shivakumar</li>
