@@ -1,0 +1,29 @@
+# =====================================================
+# Jekyll / GitHub Pages .gitignore
+# =====================================================
+
+# Site output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata/
+
+# Ruby / Bundler
+.bundle/
+vendor/
+Gemfile.lock
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Node / NPM (if you ever add JS tooling)
+node_modules/
+package-lock.json
+npm-debug.log*
+
+# Logs / temp
+*.log
+*.tmp
