@@ -1,7 +1,7 @@
 ---
 title: About Us
 layout: about
-description: 'The Sigma Phi Delta Fraternity, Beta-Nu Chapter'
+description: "The Sigma Phi Delta Fraternity, Beta-Nu Chapter"
 image: assets/images/img_2023/camping_two.JPG
 nav-menu: true
 ---
@@ -17,12 +17,13 @@ nav-menu: true
 		</header>
 		<p><span class="image right"><img src="assets/images/img_2023/camping_one.JPG" alt="" /></span>"From time to time the Fraternity, of Greek, system is called upon to set forth the principles for which it stands. So far, it has been able to offer a satisfactory explanation for its existence. As a part of this system - as a Fraternity of Engineers we insist that whatever our own superficial peculiarities, we exist for a purpose.
 
-		We stand steadfast and firm in our belief that we serve as a necessary adjunct to our Colleges and Universities in the training of young engineers. Our Constitution states, without equivocation, that the Object of the Fraternity shall be to promote the advancement of the Engineering Profession; to foster the advancement of Engineering Education; to instill a greater spirit of cooperation among Engineering Students and Organizations; to inculcate in its members the highest ideals of virtuous manhood, good Citizenship, obedience to Law, and Brotherhood; and to encourage excellence in scholarship. These objects we endeavor to fulfill in our Laws, in our Ritual, in our conduct and in our relations with others.
+    	We stand steadfast and firm in our belief that we serve as a necessary adjunct to our Colleges and Universities in the training of young engineers. Our Constitution states, without equivocation, that the Object of the Fraternity shall be to promote the advancement of the Engineering Profession; to foster the advancement of Engineering Education; to instill a greater spirit of cooperation among Engineering Students and Organizations; to inculcate in its members the highest ideals of virtuous manhood, good Citizenship, obedience to Law, and Brotherhood; and to encourage excellence in scholarship. These objects we endeavor to fulfill in our Laws, in our Ritual, in our conduct and in our relations with others.
 
-		The Sigma Phi Delta Fraternity has, since its founding on April 11, 1924, at the University of Southern California, been a Professional-Social Fraternity of Engineers. We are Professional in that, unlike the General Fraternity, we admin to membership only students enrolled or working in a curriculum, or program, leading toward a degree in engineering; that we encourage and expect our Chapters to conduct and to participate in a continuing professional program through symposia, seminars, field trips, and similar programs; and that we encourage our members to give the fullest support to the faculty of the Colleges and Schools of Engineering throughout North America.
+    	The Sigma Phi Delta Fraternity has, since its founding on April 11, 1924, at the University of Southern California, been a Professional-Social Fraternity of Engineers. We are Professional in that, unlike the General Fraternity, we admin to membership only students enrolled or working in a curriculum, or program, leading toward a degree in engineering; that we encourage and expect our Chapters to conduct and to participate in a continuing professional program through symposia, seminars, field trips, and similar programs; and that we encourage our members to give the fullest support to the faculty of the Colleges and Schools of Engineering throughout North America.
 
-		We are Social in that, similar to the General Fraternity, our members maintain and live in Chapter houses; have a social program; participate in athletic programs; and foster a close relationship with our graduated, or alumni, members."</p>
-	</div>
+    	We are Social in that, similar to the General Fraternity, our members maintain and live in Chapter houses; have a social program; participate in athletic programs; and foster a close relationship with our graduated, or alumni, members."</p>
+    </div>
+
 </section>
 
 <!-- Two -->
@@ -334,9 +335,9 @@ nav-menu: true
 					<li>Koen Graue</li>
 					<li>Mayur Shivakumar</li>
                     <li>Sameer Nadeem </li>
-                    <li>Sid Meka</li> 
+                    <li>Sid Meka</li>
 				</ul>
-			</div>	
+			</div>
 			<div class="4u 12u$(small)">
 				<h3>Tau Class (Τ)</h3>
 				<ul>
@@ -369,6 +370,37 @@ nav-menu: true
                     <li>Eric Dat Nguyen</li>
                     <li>Chancellor Kim</li>
 					<li>Chris Arango</li>
+				</ul>
+			</div>
+			<div class="4u 12u$(small)">
+				<h3>Phi Class (P)</h3>
+				<ul>
+                    <li>Luke Wade</li>
+                    <li>Luke Corson</li>
+                    <li>Carter Oates</li>
+                    <li>Ian Williamson</li>
+                    <li>Colin Lucker</li>
+                    <li>Caleb Travers</li>
+                    <li>Diego Vazquez</li>
+					<li>Ethan Tekawa-Pon</li>
+					<li>Karsten Sarmiento</li>
+					<li>Nicolas Galzote</li>
+					<li>Giovanni Ocegueda</li>
+				</ul>
+			</div>
+			<div class="4u 12u$(small)">
+				<h3>Chi Class (C)</h3>
+				<ul>
+                    <li>Jackson Merino</li>
+                    <li>Kevin Gewaid</li>
+                    <li>Ethan Cheung</li>
+                    <li>Caleb Romero</li>
+                    <li>Omar Torres</li>
+                    <li>Aidan Barajas</li>
+                    <li>Adrian Padilla</li>
+					<li>Eduardo Dominguez</li>
+					<li>Andrew Johnson</li>
+					<li>Max Corona</li>
 				</ul>
 			</div>
 		</div>

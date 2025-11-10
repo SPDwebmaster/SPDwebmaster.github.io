@@ -14,7 +14,7 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>Contact Us</h1>
-		</header>	
+		</header>
 
 <!-- Elected Officals -->
 <h4>Elected Officials</h4>
@@ -30,42 +30,42 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>Chief Engineer</td>
-				<td>Dylan Walty</td>
+				<td>Nick Ruybal</td>
 				<td>chief.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Vice Chief Engineer</td>
-				<td>Austin Voong</td>
+				<td>Finn McSherry</td>
 				<td>vicechief.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Diversity & Inclusion Chairman</td>
-				<td>Joaquin Arredondo</td>
+				<td>Nicholas Carboni</td>
 				<td>business.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Business Manager</td>
-				<td>Ian Feldman</td>
+				<td>Sammy Paykal</td>
 				<td>business.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Secretary</td>
-				<td> </td>
+				<td>Eric Nguyen</td>
 				<td>secretary.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Guide</td>
-				<td>Anthony Ballesteros</td>
+				<td>Nico Galzote</td>
 				<td>guide.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Recruitment Chairman</td>
-				<td>Ivan Nieto & Finn McSherry</td>
+				<td>Carlo Delani & Luke Wade</td>
 				<td>recruitment.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Sergeant-At-Arms</td>
-				<td>Adrian Sanchez</td>
+				<td>Ethan Rezentes</td>
 				<td>sergeant.spd.calpoly@gmail.com</td>
 			</tr>
 		</tbody>
@@ -86,22 +86,22 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>Pledge Board Chairman</td>
-				<td>Siddh Desai</td>
+				<td>Ethan Tekawa-Pon</td>
 				<td>pbc.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Social Chairman</td>
-				<td>Nicholas Ruybal</td>
+				<td>Luke Corson</td>
 				<td>social.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Athletic Chairman</td>
-				<td>Mateo Mangana</td>
+				<td>Giovanni Ocegueda</td>
 				<td>athletic.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Outreach Chairman</td>
-				<td>Benny Tam</td>
+				<td>Karsten Sarmiento</td>
 				<td>expansion.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
@@ -111,22 +111,22 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>Brotherhood Chairman</td>
-				<td>Ethan Rezentes</td>
+				<td>Sriram Raghu</td>
 				<td>brotherhood.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Philanthropy Chairman</td>
-				<td>Eric Dat Nguyen</td>
+				<td>Caleb Travers</td>
 				<td>philanthropy.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Professional Chairman</td>
-				<td>Luke Yium</td>
+				<td>Eddie Dominguez & Adrian Sanchez</td>
 				<td>professional.spd.calpoly@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Webmaster</td>
-				<td>Antonio Chen</td>
+				<td>Luis Garcia</td>
 				<td>webmaster.spd.calpoly@gmail.com</td>
 			</tr>
 		</tbody>
