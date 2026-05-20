@@ -9,7 +9,7 @@ import { readFile } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import { resolve } from "node:path";
 
-const KEY = "789395cbd3f4720d9d0f9816656585f2";
+const KEY = "4182a85103b54009948c498be736e235";
 const HOST = "www.spdcalpoly.com";
 const SITEMAP_PATH = resolve("dist/sitemap-0.xml");
 
