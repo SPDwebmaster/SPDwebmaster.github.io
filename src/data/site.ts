@@ -12,7 +12,7 @@ export const site = {
   // Bumped by hand whenever site content changes. Surfaced as `last_updated`
   // in the markdown mirrors / sitemap so AI agents see an honest date rather
   // than the build timestamp (which would always read as "today").
-  lastUpdated: "2026-05-12",
+  lastUpdated: "2026-07-03",
   motto: "Pro Bono Professionis",
   mottoTranslation: "For the Good of the Profession",
   tagline: "The Premier International Fraternity for Engineers",

@@ -1,5 +1,5 @@
 ---
-// schema.org/Event JSON-LD for each scheduled (non-invite-only) Winter Rush
+// schema.org/Event JSON-LD for each scheduled (non-invite-only) Fall Rush
 // event. Drives off src/data/rush.ts so the schedule and the structured data
 // can never drift. Helps AI Overviews answer "when is SPD rush at Cal Poly".
 import { site } from "../data/site";
@@ -10,7 +10,7 @@ const events = rushEvents
   .map((e) => ({
     "@context": "https://schema.org",
     "@type": "Event",
-    name: `Sigma Phi Delta Winter Rush 2026 — ${e.title}`,
+    name: `Sigma Phi Delta Fall Rush 2026 — ${e.title}`,
     description: e.description,
     startDate: e.startDate,
     endDate: e.endDate,

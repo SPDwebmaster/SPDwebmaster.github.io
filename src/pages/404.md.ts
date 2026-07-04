@@ -16,7 +16,7 @@ export const GET: APIRoute = () => {
     `The page you requested does not exist on the ${site.fullName} site. Here is the canonical index of pages:\n\n` +
     `- [Home](${site.url}/) — chapter overview ([markdown](${site.url}/index.md))\n` +
     `- [About](${site.url}/about) — principles, history, pledge classes ([markdown](${site.url}/about.md))\n` +
-    `- [Recruitment](${site.url}/recruitment) — Winter Rush 2026 schedule + eligible majors ([markdown](${site.url}/recruitment.md))\n` +
+    `- [Recruitment](${site.url}/recruitment) — Fall Rush 2026 schedule + eligible majors ([markdown](${site.url}/recruitment.md))\n` +
     `- [Brothers](${site.url}/brothers) — exec board + active roster ([markdown](${site.url}/brothers.md))\n` +
     `- [Contact](${site.url}/contact) — officer contacts ([markdown](${site.url}/contact.md))\n\n` +
     `For machine-readable references see [/llms.txt](${site.url}/llms.txt) and [/sitemap.md](${site.url}/sitemap.md).\n`;

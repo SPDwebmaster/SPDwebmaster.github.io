@@ -7,7 +7,7 @@ export const recruitmentFaqs: Faq[] = [
   {
     question: "When is Sigma Phi Delta rush at Cal Poly San Luis Obispo?",
     answer:
-      "Winter Rush 2026 for the Beta-Nu Chapter of Sigma Phi Delta runs Monday, January 12 through Thursday, January 15, 2026 — Week 2 of Winter Quarter — with each open event from 6 to 8 PM: BBQ at NOMO (Mon), Sports Night at Doerr Field (Tue), Game Night at the fraternity house (Wed, meet at the PAC for rides), and Professional Night at The Castle (Thu, meet at the PAC). Invite-only events follow on Friday and Saturday. There is no commitment to attend — show up to any event and decide for yourself.",
+      "Fall Rush 2026 for the Beta-Nu Chapter of Sigma Phi Delta runs Monday, August 31 through Thursday, September 3, 2026 — Week 2 of Fall Semester — with each open event from 6 to 8 PM: BBQ at NOMO (Mon), Sports Night at Doerr Field (Tue), Game Night at the fraternity house (Wed, meet at the PAC for rides), and Professional Night at The Castle (Thu, meet at the PAC). Invite-only events follow on Friday and Saturday. There is no commitment to attend — show up to any event and decide for yourself.",
   },
   {
     question: "Who can join Sigma Phi Delta? What majors are eligible?",

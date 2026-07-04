@@ -4,7 +4,7 @@ import { site } from "../data/site";
 const pages = [
   { url: "/", title: "Home", desc: "Chapter overview, links to all pages." },
   { url: "/about", title: "About", desc: "Principles, history, pledge-class timeline." },
-  { url: "/recruitment", title: "Recruitment", desc: "Winter Rush 2026 schedule, eligibility." },
+  { url: "/recruitment", title: "Recruitment", desc: "Fall Rush 2026 schedule, eligibility." },
   { url: "/brothers", title: "Brothers", desc: "Executive board and roster." },
   { url: "/contact", title: "Contact", desc: "Officer contacts." },
 ];
